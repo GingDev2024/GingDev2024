@@ -7,9 +7,9 @@ I build scalable, maintainable applications using **C#**, **ASP.NET Core**, and 
 grounded in Clean Architecture, CQRS, and SOLID principles.
 My focus is on delivering real-world solutions that are both technically sound and genuinely useful.
 
-[![GitHub](https://img.shields.io/badge/GitHub-GingDev2024-181717?style=flat&logo=github)](https://github.com/GingDev2024)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat&logo=upwork)](https://upwork.com/fl/YOUR_HANDLE)
+[![GitHub](https://img.shields.io/badge/GitHub-GingDev2024-181717?style=flat&logo=github)](https://gingdev2024.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/guiller-santos-b762ab314/)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~0163ff2c97538eded6)
 
 </div>
 
