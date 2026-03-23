@@ -1,9 +1,3 @@
-<div align="center">
-    
-# **Guiller Santos**  
-
-</div>
-
 <div align="center"> 
     
 I'm a **.NET Software Developer** with hands-on experience delivering **real-world solutions** using **C#**, **ASP.NET Core**, **Blazor**, and **Microsoft SQL Server**. 
