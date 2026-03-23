@@ -13,14 +13,6 @@ My focus is on delivering real-world solutions that are both technically sound a
 
 </div>
 
----
-
-### Core expertise
-
-`Clean Architecture` `CQRS` `Mediator Pattern` `OOP` `SOLID Principles` `RESTful APIs` `Entity Framework Core`
-
----
-
 ### Tech stack
 
 <p align="center">
