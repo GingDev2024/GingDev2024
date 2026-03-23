@@ -13,6 +13,8 @@ My focus is on delivering real-world solutions that are both technically sound a
 
 </div>
 
+<div align="center">
+
 ### Tech stack
 
 <p align="center">
@@ -27,6 +29,8 @@ My focus is on delivering real-world solutions that are both technically sound a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+</div>
 
 ---
 
