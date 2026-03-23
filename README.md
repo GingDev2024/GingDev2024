@@ -1,40 +1,43 @@
-<div align="center"> 
-    
-I'm a **.NET Software Developer** with hands-on experience delivering **real-world solutions** using **C#**, **ASP.NET Core**, **Blazor**, and **Microsoft SQL Server**. 
+<div align="center">
 
-I apply proven software engineering practices including **Clean Architecture**, **CQRS**, the **Mediator pattern**, **OOP**, and **SOLID principles** to build **scalable** and **maintainable applications**. I consistently deliver **high-quality work**, which I showcase across **GitHub**, **LinkedIn**, and **Upwork**, as part of my commitment to **excellence** in the **.NET ecosystem**.
+# Guiller Santos
+**.NET Software Developer**
 
-If this sounds interesting, **Follow me**
+I build scalable, maintainable applications using **C#**, **ASP.NET Core**, and **Blazor** —
+grounded in Clean Architecture, CQRS, and SOLID principles.
+My focus is on delivering real-world solutions that are both technically sound and genuinely useful.
+
+[![GitHub](https://img.shields.io/badge/GitHub-GingDev2024-181717?style=flat&logo=github)](https://github.com/GingDev2024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat&logo=upwork)](https://upwork.com/fl/YOUR_HANDLE)
 
 </div>
 
+---
+
+### Core expertise
+
+`Clean Architecture` `CQRS` `Mediator Pattern` `OOP` `SOLID Principles` `RESTful APIs` `Entity Framework Core`
+
+---
+
+### Tech stack
+
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+---
 
-<!-- <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/GuillerSantos/GuillerSantos/output/pacman-contribution-graph.svg" width="600" loading="lazy">
-</picture>
-</p>
- -->
-
-
-<!-- <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillerSantos&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-    
-</div> -->
-
+<div align="center">
+  <sub>Open to freelance projects and full-time opportunities · Philippines</sub>
+</div>
